@@ -16,7 +16,7 @@ int nTriggerValStart=0;
 int nBaselineAvgFinish = 0;
 int nTriggerValFinish=0;
 int nCurrentState=0;
-float fTolerance = .15;
+float fTolerance = .4;
 //*****************************************************************
 int nDebugLevel = 1;
 //*****************************************************************
